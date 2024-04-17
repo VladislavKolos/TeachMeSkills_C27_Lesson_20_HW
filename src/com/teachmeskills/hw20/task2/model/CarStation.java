@@ -9,7 +9,7 @@ import java.util.List;
  * Class representing car station
  * contains constructor
  * contains "addCar" method - method for adding a car to the service queue
- * contains "removeCar" method - method for picking up a car from a service station after service.
+ * contains "removeCar" method - method for picking up a car from a car station after service.
  */
 public class CarStation implements IConstants {
     private final List<Car> cars;
